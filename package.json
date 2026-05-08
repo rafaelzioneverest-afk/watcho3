@@ -1,7 +1,7 @@
 {
   "name": "watcho-stremio-addon",
   "version": "1.0.2",
-  "description": "WATCHO add-on for Stremio",
+  "description": "WATCHO Stremio add-on",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

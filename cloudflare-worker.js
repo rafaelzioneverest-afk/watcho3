@@ -230,7 +230,7 @@ function buildManifest(baseUrl) {
     id: "com.watcho.addon",
     version: ADDON_VERSION,
     name: BRAND,
-    description: "WATCHO brings movies, series, and anime together in a simple, fast, and organized Stremio experience.",
+    description: "WATCHO is a clean and practical Stremio add-on designed to help you explore movies, series, and anime in one smooth experience.",
     logo: `${baseUrl}/logo.png?v=${ADDON_VERSION}`,
     background: `${baseUrl}/background.svg`,
     resources: [

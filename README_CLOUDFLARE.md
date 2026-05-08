@@ -26,5 +26,5 @@ https://YOUR-WORKER.YOUR-SUBDOMAIN.workers.dev/manifest.json
 ## Manifest description
 
 ```txt
-WATCHO brings movies, series, and anime together in a simple, fast, and organized Stremio experience.
+WATCHO is a clean and practical Stremio add-on designed to help you explore movies, series, and anime in one smooth experience.
 ```
