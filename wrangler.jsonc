@@ -1,0 +1,9 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "watcho",
+  "main": "cloudflare-worker.js",
+  "compatibility_date": "2026-05-06",
+  "observability": {
+    "enabled": true
+  }
+}
